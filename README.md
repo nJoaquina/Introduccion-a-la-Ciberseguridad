@@ -8,10 +8,4 @@
   <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" alt="Hacker Meme" height="250px" />
 </p>
 
-<p align="center">
-  <strong style="color:#00FF00; font-family:'Courier New', monospace;">
-    Facultad de Informática - UNLP<br>
-    Licenciatura en Informática<br>
-    Año: 2025
-  </strong>
-</p>
+
