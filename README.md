@@ -13,6 +13,6 @@
 - Prácticas: Viernes de 11:30 a 13:30 en el Aula 2 
 
 Equipo Docente:
-Javier Diaz
-Soledad Gómez
-Ulises Cabrera
+Javier Diaz, 
+Soledad Gómez, 
+Ulises Cabrera. 
