@@ -14,5 +14,5 @@
 
 Equipo Docente:
 Javier Diaz, 
-Soledad Gómez, 
+Soledad Gómez y 
 Ulises Cabrera. 
