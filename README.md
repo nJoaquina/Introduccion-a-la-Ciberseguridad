@@ -11,7 +11,7 @@
 
 - Teoricos: Martes de 15 a 17 hs en el Aula 2     
 - Prácticas: Viernes de 11:30 a 13:30 en el Aula 2 
-
+- CTF: https://ic.catedras.linti.unlp.edu.ar/challenges
 Equipo Docente:
 Javier Diaz, 
 Soledad Gómez, 
